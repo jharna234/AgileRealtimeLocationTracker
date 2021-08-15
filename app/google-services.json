@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "45493900966",
+    "firebase_url": "https://acetracker-650ad-default-rtdb.firebaseio.com",
+    "project_id": "acetracker-650ad",
+    "storage_bucket": "acetracker-650ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45493900966:android:b3b8404d1ff10c494f4667",
+        "android_client_info": {
+          "package_name": "com.acegroup.livelocationtracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45493900966-280qjjrfkpkg85r146i79cuptl3vo3te.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdeziwN2x71QNDNFkQIgKGch-Ke198Czk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "45493900966-280qjjrfkpkg85r146i79cuptl3vo3te.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
