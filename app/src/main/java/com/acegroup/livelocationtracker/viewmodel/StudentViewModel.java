@@ -46,4 +46,5 @@ public class StudentViewModel extends AndroidViewModel {
     public void deleteStudentFromFacultiesList(String key) {
         studentRepository.deleteStudentInfoFromFacultiesList(key);
     }
+    new uploaded
 }
