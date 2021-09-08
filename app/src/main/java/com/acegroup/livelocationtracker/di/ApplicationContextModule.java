@@ -24,5 +24,5 @@ public class ApplicationContextModule {
         return application;
     }
 
-    string 
+    string
 }

@@ -14,7 +14,7 @@ import javax.inject.Singleton;
 public interface Component {
 
     void inject(StudentMainActivity studentMainActivity);
-
+ public static 
     void inject(LoginHandler loginHandler);
 
     void inject(StudentRepository studentRepository);
