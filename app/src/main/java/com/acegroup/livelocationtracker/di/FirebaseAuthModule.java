@@ -9,8 +9,8 @@ import dagger.Provides;
 
 @Singleton
 @Module
-public class FirebaseAuthModule {
-
+public class FirebaseAuthModule { 
+ Authentication
     private FirebaseAuth firebaseAuth= FirebaseAuth.getInstance();
 
     @Provides
