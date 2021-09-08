@@ -108,6 +108,7 @@ public class ChatAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> {
             super(itemView);
             message=itemView.findViewById(R.id.textViewotherstext);
             time=itemView.findViewById(R.id.textViewotherstime);
+            new file upload
         }
     }
 }
