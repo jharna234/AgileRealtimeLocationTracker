@@ -25,6 +25,8 @@ public class FacultiesAdapter extends RecyclerView.Adapter<FacultiesAdapter.AllC
     public FacultiesAdapter(Context context, ArrayList<com.acegroup.livelocationtracker.models.Faculty> Faculty) {
         this.context = context;
         this.Faculty = Faculty;
+        this.Faculty = teacher;
+        this faculty = student;
     }
 
     @NonNull
