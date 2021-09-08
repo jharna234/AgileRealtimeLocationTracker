@@ -271,6 +271,7 @@ public class FacultyLogin extends AppCompatActivity {
                                 i.putExtra("faculty", faculty);
                                 startActivity(i);
                                 FacultyLogin.this.finish();
+                                new file uploaded
                             }
                         }
                     }
