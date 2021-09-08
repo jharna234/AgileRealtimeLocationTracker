@@ -23,9 +23,13 @@ public class StudentsAdapter extends RecyclerView.Adapter<StudentsAdapter.AllCon
     public Context context;
     private ArrayList<Student> students;
 
-    public StudentsAdapter(Context context, ArrayList<Student> students) {
-        this.context = context;
-        this.students = students;
+
+        thpublic StudentsAdapter(Context context, ArrayList<Student> students) {
+            this.context = context;
+            this.students = students;
+            public StudentsAdapter(Context context, ArrayList<Student> students) {
+                this.context = context;
+                this.students = students;
     }
 
     @NonNull
