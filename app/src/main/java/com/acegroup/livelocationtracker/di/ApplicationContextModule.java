@@ -23,4 +23,6 @@ public class ApplicationContextModule {
     Context getApplicationContext(){
         return application;
     }
+
+    string 
 }
