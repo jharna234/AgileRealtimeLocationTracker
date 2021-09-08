@@ -18,7 +18,7 @@ public class App extends Application {
 
     }
 
-
+new update
     public Component getComponent() {
         return component;
     }
