@@ -1,5 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ujjwa/AndroidStudioProjects/LiveLocationTracker/app/src/main/res/layout/activity_faculty_login.xml" value="0.1" />
+        <entry key="..\:/Users/ujjwa/AndroidStudioProjects/LiveLocationTracker/app/src/main/res/layout/activity_faculty_main.xml" value="0.1" />
+        <entry key="..\:/Users/ujjwa/AndroidStudioProjects/LiveLocationTracker/app/src/main/res/layout/activity_faculty_sign_up.xml" value="0.1" />
+        <entry key="..\:/Users/ujjwa/AndroidStudioProjects/LiveLocationTracker/app/src/main/res/layout/activity_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/ujjwa/AndroidStudioProjects/LiveLocationTracker/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/ujjwa/AndroidStudioProjects/LiveLocationTracker/app/src/main/res/layout/activity_sign_up.xml" value="0.1" />
+        <entry key="..\:/Users/ujjwa/AndroidStudioProjects/LiveLocationTracker/app/src/main/res/layout/activity_splash.xml" value="0.1" />
+        <entry key="..\:/Users/ujjwa/AndroidStudioProjects/LiveLocationTracker/app/src/main/res/layout/activity_tools.xml" value="0.1" />
+        <entry key="..\:/Users/ujjwa/AndroidStudioProjects/LiveLocationTracker/app/src/main/res/layout/activity_verify.xml" value="0.1" />
+        <entry key="..\:/Users/ujjwa/AndroidStudioProjects/LiveLocationTracker/app/src/main/res/layout/app_bar_main.xml" value="0.1" />
+        <entry key="..\:/Users/ujjwa/AndroidStudioProjects/LiveLocationTracker/app/src/main/res/layout/chatmy.xml" value="0.1" />
+        <entry key="..\:/Users/ujjwa/AndroidStudioProjects/LiveLocationTracker/app/src/main/res/layout/chatothers.xml" value="0.1" />
+        <entry key="..\:/Users/ujjwa/AndroidStudioProjects/LiveLocationTracker/app/src/main/res/layout/content_main.xml" value="0.1" />
+        <entry key="..\:/Users/ujjwa/AndroidStudioProjects/LiveLocationTracker/app/src/main/res/layout/faculties_adapter_list_item.xml" value="0.1" />
+        <entry key="..\:/Users/ujjwa/AndroidStudioProjects/LiveLocationTracker/app/src/main/res/layout/loading_dialogue.xml" value="0.1" />
+        <entry key="..\:/Users/ujjwa/AndroidStudioProjects/LiveLocationTracker/app/src/main/res/layout/nav_header_main.xml" value="0.1" />
+        <entry key="..\:/Users/ujjwa/AndroidStudioProjects/LiveLocationTracker/app/src/main/res/layout/students_adapter_list_item.xml" value="0.1" />
+        <entry key="..\:/Users/ujjwa/AndroidStudioProjects/LiveLocationTracker/app/src/main/res/menu/activity_faculties_drawer.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/ujjwa/AndroidStudioProjects/LiveLocationTracker/app/src/main/res/menu/activity_students_drawer.xml" value="0.17692307692307693" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>

@@ -1,34 +1,34 @@
 {
   "project_info": {
-    "project_number": "45493900966",
-    "firebase_url": "https://acetracker-650ad-default-rtdb.firebaseio.com",
-    "project_id": "acetracker-650ad",
-    "storage_bucket": "acetracker-650ad.appspot.com"
+    "project_number": "507869442927",
+    "firebase_url": "https://agileacetrackerfinal-default-rtdb.firebaseio.com",
+    "project_id": "agileacetrackerfinal",
+    "storage_bucket": "agileacetrackerfinal.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:45493900966:android:b3b8404d1ff10c494f4667",
+        "mobilesdk_app_id": "1:507869442927:android:ecab94f783e469dfc7ae9a",
         "android_client_info": {
           "package_name": "com.acegroup.livelocationtracker"
         }
       },
       "oauth_client": [
         {
-          "client_id": "45493900966-280qjjrfkpkg85r146i79cuptl3vo3te.apps.googleusercontent.com",
+          "client_id": "507869442927-b0po1cvis5eqrq2pjqh9ihk4ph25049c.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBdeziwN2x71QNDNFkQIgKGch-Ke198Czk"
+          "current_key": "AIzaSyBZHP_YPFGiXtNgMaI_sJHnipZfk5kvWLs"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "45493900966-280qjjrfkpkg85r146i79cuptl3vo3te.apps.googleusercontent.com",
+              "client_id": "507869442927-b0po1cvis5eqrq2pjqh9ihk4ph25049c.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
